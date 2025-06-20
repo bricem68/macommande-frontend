@@ -1,0 +1,1 @@
+document.getElementById('root').innerText = 'Bienvenue sur Ma Commande Groupée !';
